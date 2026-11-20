@@ -229,9 +229,9 @@ module.exports = function(grunt) {
 							params: {
 								overrides: {
 									removeViewBox: false,
-										cleanupIds: {
-											preservePrefixes: ["clock-digit", "clock-dots"]
-										}
+									cleanupIds: {
+										preservePrefixes: ["clock-digit", "clock-dots"]
+									}
 								}
 							}
 						}
